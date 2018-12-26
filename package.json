@@ -1,0 +1,15 @@
+{
+  "name": "natours-study",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "y",
+  "license": "ISC"
+}
